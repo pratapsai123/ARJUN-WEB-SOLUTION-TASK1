@@ -1,0 +1,209 @@
+body{
+  padding-top: 0px;
+  margin-top: 0px;
+  overflow-x: hidden;
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  gap: 35px;
+  margin-left:0px;
+ }
+.header{
+  width: 100%;
+  height: 53px; 
+  background-color: #333;
+  color: #fff;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+ /*  */
+
+.division-1{
+
+height: 400px;
+width: 100%;
+}
+.first{
+  height: 40px;
+  width: 220px;
+  position: relative;
+  top: -220px;
+  background-color: rgb(230, 230, 11);
+  font-size: xx-large;
+  font-weight:bolder;
+}
+#first1{
+  margin-left: 60px;
+}
+.second{
+  position: relative;
+  top: -291px;
+  left: 225px;
+  font-size: xx-large;
+  color: white;
+  font-weight: bolder;
+}
+.third{
+  position: relative;
+  top: -310px;
+  left: 60px;
+  color: white;
+  font-size: 13px;
+}
+.fourth{
+  left: 60px;
+  position: relative;
+  top: -320px;
+  color: white;
+}
+#fourthone{
+ display: inline-block;
+  border: 2px solid yellow;
+  height: 20px;
+  width: 190px;
+ justify-content: center;
+ padding: 5px 5px  5px 5px ;
+}
+.division-2{
+height: 400px;
+width: 100%;
+background-color:white;
+}
+.bordered-text {
+  font-size: xx-large;
+  padding: 5px;
+  display: inline-block;
+}
+.services1{
+  font-size: x-large;
+  position: relative;
+  left: 35px;
+  top: -85px;
+}
+.division-3{
+height: 400px;
+width: 100%;
+background-color: black;
+}
+.contain1{
+  height: 260px;
+  width: 180px;
+  border: 2px  solid red;
+ float:left;
+ margin: 10px;
+}
+.contain1{
+  position: relative;
+  top: -260px;
+  left: 500px;
+}
+.division-4{
+height: 400px;
+width: 100%;
+background-color:  brown;
+}
+.division-5{
+  position: relative;
+  top: -33px;
+height: 400px;
+width: 100%;
+background-color: blue;
+}
+button{
+ margin-left: 50px;
+}
+#button1{
+  margin-top: -200px;
+}
+#images2{
+  position: relative;
+  height: 140px;
+  width: 120px;
+  border: 2px solid  rgb(203, 21, 173);
+  margin: 10px;
+  top: -100px;
+
+}
+.images1{
+  margin-left: 550px; 
+}
+#gallery{
+  position: relative;
+  top: -60px;
+  color: white;
+  font-size: 80px;
+}
+#gallery1{
+  position: relative;
+  top: -200px;
+  color:yellow;
+  left: 730px;
+  font-size: 30px;
+}
+.connect{
+  position: relative;
+  font-size: 90px;
+  top: -180px;
+  left: 90px;
+}
+#follow{
+  position: relative;
+  color: white;
+  top: -335px;
+  left: 90px;
+  font-size: 28px;
+}
+.insta{
+  position: relative;
+   height: 60px;
+   width: 60px;
+   border: 2px dotted green;
+   border-radius: 50%;
+   top: -355px;
+   left: 60px;
+   margin: 15px;
+   background-color: white;
+}
+.impact{
+  top: 20px;
+  position: relative;
+  font-size: xx-large;
+  color: white;
+}
+.videos1{
+  display: flex;
+  height: 150px;
+  width: 300px;
+  border: 2px solid red;
+  margin-left: 300px;
+}
+.videos{
+  position: relative;
+  left: 400px;
+  top: -200px;
+  display: flex;
+  height: 150px;
+  width: 300px;
+  border: 2px solid red;
+  margin-left: 300px;
+
+}
+#school{
+  position: relative;
+  top:-40px;
+  left:310px;
+  color: white;
+}
+#greatful{
+  position: relative;
+  top: -240px;
+  left: 710px;
+  color: white;
+}
+.videos2{
+  margin: 50px;
+
+}
